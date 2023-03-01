@@ -1,0 +1,22 @@
+.bg-header {
+  background-color: #f1f3ff;
+  color: black;
+}
+
+.custom-list {
+  list-style: none;
+}
+
+.bi-check-lg {
+  color: #0d28a6;
+  background-color: #cfd4ed;
+  font-size: 18px;
+  border-radius: 100%;
+  padding: 2px 4px;
+}
+
+.navbar-brand {
+  width: 100px;
+  height: 34px;
+  background-color: #0d28a6;
+}
