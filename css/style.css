@@ -1,22 +1,35 @@
+* {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
 .bg-header {
   background-color: #f1f3ff;
   color: black;
+}
+
+.text-justify {
+  text-align: justify;
 }
 
 .custom-list {
   list-style: none;
 }
 
-.bi-check-lg {
-  color: #0d28a6;
-  background-color: #cfd4ed;
-  font-size: 18px;
-  border-radius: 100%;
-  padding: 2px 4px;
+.bg-blue {
+  background-color: #0d28a6;
 }
 
-.navbar-brand {
-  width: 100px;
-  height: 34px;
-  background-color: #0d28a6;
+.txt-decoration {
+  text-decoration: none;
+  color: black;
+}
+
+.btn-circle {
+  width: 30px;
+  height: 30px;
+  padding: 5px 8px;
+  border-radius: 15px;
+  text-align: center;
+  font-size: 15px;
+  line-height: 1.42857;
 }
